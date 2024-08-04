@@ -1,4 +1,4 @@
-# calculator-JavaScript-project02 
+# calculator-JavaScript-project
 
 
 
